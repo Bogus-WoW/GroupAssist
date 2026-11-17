@@ -1,0 +1,11 @@
+## Interface: 16001, 120105
+## Title: GroupAssist
+## Notes: Tank and healer helpers in one: buff bars, regen timer, drinking and aggro call-outs, loose-mob marks, tank focus. Replaces TankAssist and HealAssist.
+## Author: Adam
+## Version: 1.0.1
+## SavedVariables: GroupAssistDB
+## SavedVariablesPerCharacter: GroupAssistChar
+
+Core.lua
+Tank.lua
+Heal.lua
